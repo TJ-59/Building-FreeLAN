@@ -52,3 +52,13 @@ Les fichiers compatibles MSBuild, principalement des .vcxproj, ont été édité
 pour les nombreux includes et librairies, ne laissant que des modifications mineures à faire, en cas de nouvelle version de Boost.
 
 Entretenu par TJ-59
+
+
+Building FreeLAN Guide (c) by TJ-59
+
+Building FreeLAN Guide is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
+
+You should have received a copy of the license along with this work. If not, see http://creativecommons.org/licenses/by-nc-sa/4.0/.
+
+Modified files provided in the archive are (c) of their respective authors, and modified according to their respective licences,
+which are also provided in the archive.
